@@ -1,0 +1,8 @@
+-Wall 
+    significa “ todos os avisos ” e faz com que o compilador o avise quando ele vê código em seu programa que pode não estar tecnicamente errado, mas é considerado uso ruim ou questionável da linguagem C, como usar variáveis ​​antes de inicializá-las.
+
+-Wextrae -pedantic
+    ative ainda mais avisos. Para cada etapa deste tutorial, se seu programa compilar, ele não deve produzir nenhum aviso, exceto avisos de “variável não utilizada” em alguns casos. Se você receber quaisquer outros avisos, verifique se seu código corresponde exatamente ao código naquela etapa
+
+
+https://viewsourcecode.org/snaptoken/kilo/02.enteringRawMode.html
